@@ -1,5 +1,15 @@
 //package assignment9.demos;
 
+/*
+ *
+ * Name: TreeSetDemo.java
+ * Purpose: Checks to see if TreeSets guarantee
+ *          an ordered and sorted Set
+ * Author: grivera64
+ * Date: 11/19/2021
+ *
+ */
+
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

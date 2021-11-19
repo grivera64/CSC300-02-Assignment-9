@@ -1,5 +1,15 @@
 //package assignment9.demos;
 
+/*
+ *
+ * Name: LinkedHashSetDemo.java
+ * Purpose: Tests whether a LinkedHashSet guarantees an ordered
+ *          set with Unique Elements
+ * Author: grivera64
+ * Date: 11/21/2021
+ *
+ */
+
 import java.util.Iterator;
 import java.util.LinkedHashSet;
 import java.util.Set;
