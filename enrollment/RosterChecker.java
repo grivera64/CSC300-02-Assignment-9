@@ -1,5 +1,14 @@
 //package assignment9.enrollment;
 
+/*
+ *
+ * Name: RosterChecker.java
+ * Purpose: Runs a SpringFieldSchool Roster and tests Sets
+ * Author: grivera64
+ * Date: 11/19/2021
+ *
+ */
+
 import java.util.Scanner;
 
 public class RosterChecker {
